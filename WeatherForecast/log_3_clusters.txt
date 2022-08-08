@@ -1,0 +1,198 @@
+Using normal image:
+Means = [[100.07], [145.753], [193.428]]
+images/test/original/B1.jpg mean = 123.18902774374473
+Current weather condition is:
+CLOUDY
+images/test/original/B10.jpg mean = 121.66518607190861
+Current weather condition is:
+SUNNY
+images/test/original/B11.jpg mean = 128.6606778231534
+Current weather condition is:
+CLOUDY
+images/test/original/B12.jpg mean = 150.59619283815982
+Current weather condition is:
+CLOUDY
+images/test/original/B13.jpg mean = 121.69107691074046
+Current weather condition is:
+SUNNY
+images/test/original/B14.jpg mean = 115.5694550762488
+Current weather condition is:
+SUNNY
+images/test/original/B2.jpg mean = 126.29060596985126
+Current weather condition is:
+CLOUDY
+images/test/original/B3.jpg mean = 42.66325833333333
+Current weather condition is:
+SUNNY
+images/test/original/B4.jpg mean = 86.62293958333333
+Current weather condition is:
+SUNNY
+images/test/original/B5.jpg mean = 69.77351041666667
+Current weather condition is:
+SUNNY
+images/test/original/B6.jpg mean = 60.78331881533101
+Current weather condition is:
+SUNNY
+images/test/original/B7.jpg mean = 151.6925275010517
+Current weather condition is:
+CLOUDY
+images/test/original/B8.jpg mean = 119.18651564992025
+Current weather condition is:
+SUNNY
+images/test/original/B9.jpg mean = 152.18330641342865
+Current weather condition is:
+CLOUDY
+images/test/original/C1.jpg mean = 174.73753235476875
+Current weather condition is:
+HIGH CHANCE OF RAIN
+images/test/original/C2.jpg mean = 111.20403677384809
+Current weather condition is:
+SUNNY
+images/test/original/C3.jpg mean = 86.8324375
+Current weather condition is:
+SUNNY
+images/test/original/C4.jpg mean = 150.09446929603496
+Current weather condition is:
+CLOUDY
+images/test/original/C5.jpg mean = 135.5728101076039
+Current weather condition is:
+CLOUDY
+images/test/original/C6.jpg mean = 122.7022253533727
+Current weather condition is:
+SUNNY
+images/test/original/C7.jpg mean = 130.77179653134164
+Current weather condition is:
+CLOUDY
+images/test/original/C8.jpg mean = 142.6684949151401
+Current weather condition is:
+CLOUDY
+images/test/original/C9.jpg mean = 130.13275904203323
+Current weather condition is:
+CLOUDY
+images/test/original/U1.jpg mean = 89.52990196078431
+Current weather condition is:
+SUNNY
+images/test/original/U2.jpg mean = 87.6335489667565
+Current weather condition is:
+SUNNY
+images/test/original/U3.jpg mean = 52.42260074781886
+Current weather condition is:
+SUNNY
+images/test/original/U4.jpg mean = 161.9041011806574
+Current weather condition is:
+CLOUDY
+images/test/original/U5.jpg mean = 130.62954583638808
+Current weather condition is:
+CLOUDY
+images/test/original/U6.jpg mean = 161.53992069128788
+Current weather condition is:
+CLOUDY
+images/test/original/U7.jpg mean = 155.56210047652255
+Current weather condition is:
+CLOUDY
+images/test/original/U8.jpg mean = 139.57077919975828
+Current weather condition is:
+CLOUDY
+images/test/original/U9.jpg mean = 192.0864382340604
+Current weather condition is:
+HIGH CHANCE OF RAIN
+Accuracy: 62.5%
+Using image after image processing:
+Means = [[59.346], [112.251], [175.905]]
+images/test/original/B1.jpg mean = 121.51099765502093
+Current weather condition is:
+CLOUDY
+images/test/original/B10.jpg mean = 90.84185728027128
+Current weather condition is:
+CLOUDY
+images/test/original/B11.jpg mean = 111.54689081041303
+Current weather condition is:
+CLOUDY
+images/test/original/B12.jpg mean = 164.61773713105777
+Current weather condition is:
+HIGH CHANCE OF RAIN
+images/test/original/B13.jpg mean = 71.93052358921146
+Current weather condition is:
+SUNNY
+images/test/original/B14.jpg mean = 121.89916977975709
+Current weather condition is:
+CLOUDY
+images/test/original/B2.jpg mean = 110.76579501052
+Current weather condition is:
+CLOUDY
+images/test/original/B3.jpg mean = 35.06467794796335
+Current weather condition is:
+SUNNY
+images/test/original/B4.jpg mean = 93.06351480420248
+Current weather condition is:
+CLOUDY
+images/test/original/B5.jpg mean = 64.55675048186438
+Current weather condition is:
+SUNNY
+images/test/original/B6.jpg mean = 52.73792607507551
+Current weather condition is:
+SUNNY
+images/test/original/B7.jpg mean = 162.80184371648969
+Current weather condition is:
+HIGH CHANCE OF RAIN
+images/test/original/B8.jpg mean = 99.77210566976693
+Current weather condition is:
+CLOUDY
+images/test/original/B9.jpg mean = 156.5461880832735
+Current weather condition is:
+HIGH CHANCE OF RAIN
+images/test/original/C1.jpg mean = 114.64328268115372
+Current weather condition is:
+CLOUDY
+images/test/original/C2.jpg mean = 47.00137021222357
+Current weather condition is:
+SUNNY
+images/test/original/C3.jpg mean = 73.00138557095079
+Current weather condition is:
+SUNNY
+images/test/original/C4.jpg mean = 116.95988459410323
+Current weather condition is:
+CLOUDY
+images/test/original/C5.jpg mean = 121.35300025693131
+Current weather condition is:
+CLOUDY
+images/test/original/C6.jpg mean = 39.964082890985374
+Current weather condition is:
+SUNNY
+images/test/original/C7.jpg mean = 71.96909461964289
+Current weather condition is:
+SUNNY
+images/test/original/C8.jpg mean = 82.12482094979248
+Current weather condition is:
+SUNNY
+images/test/original/C9.jpg mean = 80.89304461942257
+Current weather condition is:
+SUNNY
+images/test/original/U1.jpg mean = 29.355222453456324
+Current weather condition is:
+SUNNY
+images/test/original/U2.jpg mean = 36.49943355119826
+Current weather condition is:
+SUNNY
+images/test/original/U3.jpg mean = 11.68166409861325
+Current weather condition is:
+SUNNY
+images/test/original/U4.jpg mean = 127.94421136001199
+Current weather condition is:
+CLOUDY
+images/test/original/U5.jpg mean = 74.06304282121614
+Current weather condition is:
+SUNNY
+images/test/original/U6.jpg mean = 123.62190151192
+Current weather condition is:
+CLOUDY
+images/test/original/U7.jpg mean = 128.79054075661156
+Current weather condition is:
+CLOUDY
+images/test/original/U8.jpg mean = 95.84781276873184
+Current weather condition is:
+CLOUDY
+images/test/original/U9.jpg mean = 157.22230912217358
+Current weather condition is:
+HIGH CHANCE OF RAIN
+Accuracy: 78.125%
